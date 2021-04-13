@@ -8,6 +8,6 @@ game.splash("Continue")
 color.setPalette(
 color.originalPalette
 )
+story.printText("You are a scientist who finally invented Interdimensional travel", 80, 60, 1, 15)
 story.printText("But something went wrong, and you need to get out of the lab and shut it down before it destroys reality.", 80, 60, 1, 15)
 story.printText("And the security system went Beserk, so be careful!", 80, 60, 1, 15)
-story.printText("You are a scientist who finally invented Interdimensional travel", 80, 60, 1, 15)
