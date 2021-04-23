@@ -6,7 +6,8 @@
         "Color Fading": "github:jwunderl/pxt-color#v0.2.1",
         "Timers": "github:microsoft/arcade-timers#v1.1.0",
         "storyboard": "*",
-        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.1"
+        "arcade-story": "github:microsoft/arcade-storytelling#v1.0.1",
+        "sound effects": "github:klausw3/pxt-sound-effects#v1.1.0"
     },
     "files": [
         "main.blocks",
@@ -22,7 +23,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.4.37",
+        "target": "1.4.40",
         "targetId": "arcade"
     },
     "supportedTargets": [
@@ -35,15 +36,15 @@
         "#B01C1A",
         "#D9DDCD",
         "#85080C",
-        "#A4AA99",
+        "#001437",
         "#D1DCCC",
-        "#0DF1AC",
+        "#002364",
         "#CF1212",
         "#DDDBCE",
         "#D8DACD",
         "#DBE1D6",
         "#C21322",
-        "#994600",
+        "#183398",
         "#3A3738",
         "#000000"
     ]
